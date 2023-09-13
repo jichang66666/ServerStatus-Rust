@@ -23,7 +23,7 @@ hosts = [
   {name = "FR", password = "FR", alias = "Zspace1-147", location = "🇫🇷", type = "kvm", labels = "os=arch;ndd=2022/11/25;spec=2C/4G/60G;"},
   {name = "h2", password = "p2", alias = "n2", location = "🏢", type = "kvm", disabled = false},
   {name = "h3", password = "p3", alias = "n3", location = "🏡", type = "kvm", monthstart = 1},
-  {name = "h4", password = "p4", alias = "n4", location = "cn", type = "kvm", notify = true, labels = "ndd=2022/11/25;spec=2C/4G/60G;"},
+  {name = "HK", password = "HK", alias = "HK", location = "HK", type = "Lxc", notify = true, labels = "ndd=2022/11/25;spec=2C/4G/60G;"},
 
   # 最小化配置
   {name = "mac", password = "pp", alias = "macos"},
